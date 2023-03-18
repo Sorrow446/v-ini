@@ -23,6 +23,7 @@ cfg.sections['new.section'] = {
   'ab': 'cd',
   'ef': 'gh',
 }
+ini.write('2.ini', cfg)!
 ```
 ```
 [config]
