@@ -1,5 +1,5 @@
 Module {
-	name: 'v-bencode'
+	name: 'v-ini'
 	description: 'INI library.'
 	version: '0.0.1'
 	license: 'MIT'
