@@ -50,6 +50,7 @@ ef=gh
 
 - Loose key/value pairs without sections are allowed.
 - Duplicate value keys are allowed, but duplicate section keys aren't.
+- Comments can start with `;` or `#`.
 
 ## Structs
 ```v
