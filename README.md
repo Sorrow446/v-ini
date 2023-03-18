@@ -44,7 +44,7 @@ ef=gh
 |Type|Allowed chars|
 | --- | --- |
 |Section key|`a-zA-Z0-9.-_/`
-|Key|`a-zA-Z0-9.-_`
+|Key|`a-zA-Z0-9.-_`, first char can be `+`, `-` or `!`
 |Value|any
 
 - Loose key/value pairs without sections are allowed.
